@@ -5,7 +5,7 @@ Test implementation of data hub for [ChIP-atlas](http://chip-atlas.org/)
 How to run
 --------
 
-preparation (get file list):
+preparation (get file list) :
 
   % sh 10getList.sh
 
