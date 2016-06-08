@@ -9,7 +9,7 @@ function usage()
 
 
 genome_assembly=
-base_url=https://dl.dropboxusercontent.com/u/12911407/160427-chipatlas/
+base_url=
 
 
 while getopts g:b: opt
