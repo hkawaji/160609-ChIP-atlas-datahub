@@ -1,6 +1,6 @@
 #!/bin/sh
 
-infile_param=10params.list
+infile_param=11qcPlot_selection.params
 outfile_hub=hub.txt
 outfile_genomes=genomes.txt
 outfile_qclog=qc.log
