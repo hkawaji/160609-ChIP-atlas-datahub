@@ -7,20 +7,20 @@ How to run
 
 preparation (get file list):
 
-  % sh 10getList.sh
+ | % sh 10getList.sh
 
 generate configuration for individual tracks:
 
-  % sh 1XgenHub.sh   
+ | % sh 1XgenHub.sh   
 
 obtain peak (bigBed) files:
 
-  % sh 20getBb.sh 
+ | % sh 20getBb.sh 
 
 generate an aggregated peak file
 
-  % sh 21aggregateBb.sh
+ | % sh 21aggregateBb.sh
 
 generate additional entries to the data hub configuration.
 
-  % sh 22addTrackDb.sh
+ | % sh 22addTrackDb.sh
