@@ -1,0 +1,5 @@
+-g hg19 -r 1e7 -m 80 -d 20
+-g mm9 -r 1e7 -m 80 -d 20
+-g dm3 -r 1e6 -m 80 -d 25
+-g ce10 -r 1e6 -m 80 -d 20
+-g sacCer3 -r 1e6 -m 80 -d 60
